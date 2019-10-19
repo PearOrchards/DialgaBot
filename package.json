@@ -1,0 +1,37 @@
+{
+  "name": "dialgabot",
+  "version": "2.3.0",
+  "description": "Discord Bot made by PKPear#2121",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PKPear",
+  "license": "ISC",
+  "dependencies": {
+    "detect-libc": "^1.0.3",
+    "discord.js": "^11.5.0",
+    "download-file": "^0.1.5",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "jimp": "^0.5.6",
+    "mysql": "^2.17.1",
+    "node-opus": "^0.3.1",
+    "nodemon": "^1.19.0",
+    "npmlog": "^4.1.2",
+    "random-puppy": "^1.1.0",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.0",
+    "rimraf": "^2.6.3",
+    "sqlite": "^3.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PKPear/DialgaBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PKPear/DialgaBot/issues"
+  },
+  "homepage": "https://github.com/PKPear/DialgaBot#readme"
+}

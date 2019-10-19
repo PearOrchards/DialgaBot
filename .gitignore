@@ -1,0 +1,11 @@
+score.sqlite
+score.sqlite-journal
+logsDat/
+config.json
+node_modules/
+.vscode/
+.git/
+pokemon/images
+pokemon/sprites
+pokemon/thumbnails
+Thumbs.db
