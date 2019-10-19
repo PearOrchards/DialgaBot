@@ -1,2 +1,38 @@
 # DialgaBot
-A Discord Bot that fell into inactivity, and so now is open source. 
+
+****The new Pokémon Mystery Dungeon based Discord Bot that yells nonstop, and is now completely open source!****
+
+Current Features: 
+ - Who's That Pokémon
+ - Random Fun Commands
+ - Many Say Commands
+ - Global and Local Levels and Leaderboards
+ 
+ If you're not interested in hosting yourself, feel free to just use our pre-made bot, and invite using [this link](http://bit.ly/InviteDialgaBot)
+
+## Installation
+DialgaBot wasn't created in portability in mind, but if you have a basic understanding on how Node.JS works, then you should be fine in installing this.
+
+ 1. Download this repository and place it somewhere you can remember.
+ 2. Create a bot account in your Discord Developer account, and add that bot account into your server. Simply:
+	*a. Go to the [Developers Page](https://discordapp.com/developers/applications/) (this will require you to log in to your Discord account)
+	 b. Click the `New Application` button and enter a name (eg, "DialgaBot")
+	 c. Go to the `Bot` section, and create the bot account
+	 d. Copy the Client ID (in General Information)
+	 e. Use [this site](https://discordapi.com/permissions.html) to create an invite link, and use it.*
+ 4. Install Node.JS on your computer. DialgaBot is hosted on v10.15.2, so I would strongly recommend using the latest version of Node.JS v10. Get Node.JS from [here](https://nodejs.org/en/download/).
+ 5. With a Powershell with Administrator perms open, and in DialgaBot's folder, do the command `npm i` 
+5. Go into config.json, and put your bot's token into the "" next to token:
+6. Do the command `node main.js` and everything should be working!
+
+## Support
+Would just recommend you go to DialgaBot's Discord Server, which you can find [here](https://discord.gg/WK73HGC).
+
+## Contributing and Licensing
+DialgaBot uses GNU GPL v2.0 as its license. If you want to create your own things using this bot, follow that license and its terms.
+
+If you would like to contribute, feel free to do so!
+The master branch will be protected for obvious reasons, but feel free to fork into your own area, push to a new branch in that, and then create a pull request. I would greatly appreciate help in this project!
+Also, just give enough detail if you're creating an issue. It'll just make things faster for everyone :P
+
+*©2016 Pokémon. ©1995–2016 Nintendo / Creatures Inc. / GAME FREAK inc. © 2016 Pokémon/Nintendo Pokémon and Pokémon character names are trademarks of Nintendo. Potential copyright infringement is not intended.*
