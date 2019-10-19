@@ -16,11 +16,11 @@ DialgaBot wasn't created in portability in mind, but if you have a basic underst
  1. Download this repository and place it somewhere you can remember.
  2. Create a bot account in your Discord Developer account, and add that bot account into your server. Simply:
  
-	*a. Go to the [Developers Page](https://discordapp.com/developers/applications/) (this will require you to log in to your Discord account)
-	 b. Click the `New Application` button and enter a name (eg, "DialgaBot")
-	 c. Go to the `Bot` section, and create the bot account
-	 d. Copy the Client ID (in General Information)
-	 e. Use [this site](https://discordapi.com/permissions.html) to create an invite link, and use it.*
+	*a. Go to the [Developers Page](https://discordapp.com/developers/applications/) (this will require you to log in to your Discord account)*
+	 *b. Click the `New Application` button and enter a name (eg, "DialgaBot")*
+	 *c. Go to the `Bot` section, and create the bot account*
+	 *d. Copy the Client ID (in General Information)*
+	 *e. Use [this site](https://discordapi.com/permissions.html) to create an invite link, and use it.*
 	 
  3. Install Node.JS on your computer. DialgaBot is hosted on v10.15.2, so I would strongly recommend using the latest version of Node.JS v10. Get Node.JS from [here](https://nodejs.org/en/download/).
  4. With a Powershell with Administrator perms open, and in DialgaBot's folder, do the command `npm i` 
